@@ -62,21 +62,21 @@ export function Footer() {
               </h2>
               <ul className="text-gray-500 dark:text-gray-400 font-medium flex flex-col gap-4">
                 <Link
-                  href="https://x.com/SkaiLord007"
+                  href="https://x.com/itspoggerss"
                   target="_blank"
                   rel="noreferrer"
                   className="flex items-center gap-2"
                 >
-                  <SiX /> @SkaiLord007
+                  <SiX /> @malhardv
                 </Link>
 
                 <Link
-                  href="https://github.com/SkaiLord"
+                  href="https://github.com/malhardv"
                   target="_blank"
                   rel="noreferrer"
                   className="flex items-center gap-2"
                 >
-                  <SiGithub /> @SkaiLord
+                  <SiGithub /> @itspoggerss
                 </Link>
               </ul>
             </div>

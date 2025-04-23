@@ -43,7 +43,7 @@ export default function Navbar({}): any {
         </Link>
       </div>
       <div className="hidden md:flex gap-4 items-center">
-        <Link href="https://github.com/SkaiLord/docswap">
+        <Link href="https://github.com/malhardv/document-conv.git">
           <Button
             variant="default"
             className="rounded-full w-fit bg-main-green gap-2 items-center hidden md:flex"
