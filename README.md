@@ -9,13 +9,13 @@ DocSwap is your one-stop solution for effortless file transformation. It empower
 - Download converted files instantly.
 - Backend built using Node.js and Express.
 
-### Built With
+## 🛠️ Tech Stack
 
-* [![Next][Next.js]][Next-url]
-* [![Tailwind Css][Tailwind]][Tailwind-url]
-* [![Shadcn/ui][Shadcn]][Shadcn-url]
-* [![FFmpeg][FFmpeg]][FFmpeg-url]
-* [![Wasm][Wasm]][Wasm-url]
+- ![Next.js](https://img.shields.io/badge/NEXT.JS-000?logo=nextdotjs&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+- ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=vercel&logoColor=white)
+- ![FFmpeg](https://img.shields.io/badge/FFMPEG-007808?style=flat&logo=ffmpeg&logoColor=white)
+- ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=WebAssembly&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
