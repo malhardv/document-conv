@@ -1,7 +1,7 @@
 export default function PrivacyPolicy() {
   return (
     <div className="space-y-12 text-md md:text-lg text-gray-500 pb-4 md:pb-8 pt-32 min-h-screen lg:pt-36 2xl:pt-44 container max-w-4xl lg:max-w-6xl 2xl:max-w-7xl">
-      <p>Effective Date: 3 March 2024</p>
+      <p>Effective Date: 12th March, 2025</p>
       <p>
         At DocSwap, we are committed to safeguarding your privacy. This Privacy
         Policy outlines our practices regarding the collection, use, and
